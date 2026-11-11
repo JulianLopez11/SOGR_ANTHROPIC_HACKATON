@@ -1,0 +1,24 @@
+texto: lista la sin ¿listo? modelo lloverá la
+stop_reason: end_turn
+input_tokens: 3499
+output_tokens: 375
+texto: Bogotá café Bogotá servidor lloverá con modelo hola con está el lloverá tinto prueba arepa responde calma
+stop_reason: stop_sequence
+input_tokens: 556
+output_tokens: 510
+texto: tinto el compila servidor compila en compila Bogotá en compila ¡vamos! Bogotá datos datos gracias el en lloverá calma respuesta respuesta rápido gracias
+stop_reason: max_tokens
+input_tokens: 99
+output_tokens: 59
+texto: gracias modelo el café código la respuesta ¡vamos! tinto
+stop_reason: end_turn
+input_tokens: 3758
+output_tokens: 292
+texto: la tinto lista
+stop_reason: end_turn
+input_tokens: 3010
+output_tokens: 81
+texto: ¿listo? datos con despacio está prueba datos
+stop_reason: max_tokens
+input_tokens: 3232
+output_tokens: 209
